@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Perl5LocalSettings">
+    <option name="perlInterpreter" value="Local, System: Perl 5.14.2" />
+  </component>
+  <component name="Perl5XSubsState">
+    <option name="myFilesMap">
+      <map>
+        <entry key="C:/Dwimperl/perl/vendor/lib/auto/XML/LibXSLT/LibXSLT.xs.dll" value="1321979168000" />
+      </map>
+    </option>
+  </component>
+</project>
